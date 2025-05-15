@@ -1,0 +1,1 @@
+from wb_assistance_bot.tg_bot.bot import bot
