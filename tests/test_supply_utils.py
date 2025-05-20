@@ -18,3 +18,5 @@ def test_normer_sales_percent_by_region_sum_to_100():
 
 def test_normer_sales_percent_basic():
     assert normer_sales_percent([1, 1, 2]) == [25.0, 25.0, 50.0]
+
+    
